@@ -2,8 +2,8 @@ package io.spring.base.service;
 
 import io.spring.base.common.BaseService;
 import io.spring.base.domain.Authority;
-import io.spring.base.dto.AuthorityDTO;
 import io.spring.base.repository.AuthorityRepository;
+import io.spring.base.dto.AuthorityDTO;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
